@@ -1,0 +1,38 @@
+/*UNIVERSALS*/
+.black{
+  background-color: black;
+}
+
+.small-height{
+  height: 30px;
+}
+
+.medium-height{
+  height: 60px;
+}
+
+.large-height{
+  height: 175px;
+}
+
+.xl-height{
+  height: 350px;
+  margin: 30px 0px 30px 0px;
+}
+
+.mrgn-tb{
+  margin: 40px 0px 40px 0px;
+}
+
+.mrgn-l{
+  margin-left: 30px;
+}
+
+div{
+  color: yellow;
+}
+
+/*HEADER*/
+.mynav{
+  margin-top: 15px
+}
